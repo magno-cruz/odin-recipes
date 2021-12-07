@@ -1,1 +1,3 @@
 # odin-recipes
+
+EXEMPLE WEBSITE FOR THE ODIN PROJECT.
